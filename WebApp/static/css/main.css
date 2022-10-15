@@ -1,0 +1,18 @@
+body{
+  background-color: rgb(186, 197, 200);
+  margin: 0;
+  padding: 0;
+  background-size: cover;
+  background-position: center;
+  font-family: sans-serif;
+}
+
+h1{
+  font-weight: bolder;
+  font-family: sans-serif;
+  text-align: center;
+  color: black;
+}
+
+
+
